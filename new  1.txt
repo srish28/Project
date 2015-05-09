@@ -1,0 +1,7 @@
+<?php
+if($_POST["selectform"])
+	$shoes=$_POST["sel"];
+	
+foreach($shoes as $val)
+	echo $val;
+?>

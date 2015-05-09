@@ -1,0 +1,134 @@
+*{
+margin:0px;
+padding:0px;
+}
+#big-wrapper
+{
+	border: 2px solid black;
+	max-width:1000px;
+	height:1500px;
+	margin:20px auto;
+	padding:20px;
+	display: -webkit-box;
+	-webkit-box-pack:center;
+	-webkit-box-flex:1;
+	
+}
+
+#header3 
+{
+	-webkit-box-flex:1;
+	-webkit-border-radius:25px;
+	text-align:center;
+	clear:right;
+	margin:20px;	
+}
+
+#header2 
+{
+	width: 200px;
+	border:1px solid black;
+	-webkit-border-radius:25px;
+	text-align:center;
+	clear:right;
+	margin:10px;	
+}
+
+#photo
+{
+	margin:2px;
+	border:2px;
+}
+
+#desc
+{
+	float:right;
+	text-align:justify;
+	width:500px;
+	height:700x;
+	margin:20px;
+	padding:20px;
+	font-size:22px;
+}
+
+#first
+{
+	margin:20px auto;
+	padding:20px;
+	width:950px;
+}
+
+#foot1
+{
+	float:left;
+}
+
+#foot2
+{
+	float:right;
+}
+
+#sign
+{
+	align:center;
+	width:450;
+	float:left;
+	margin:20px;
+	padding:20px;
+	text-align:right;
+	font: 20px Ariel;
+	-webkit-border-radius:15px;
+}
+
+
+#log
+{
+	
+	text-align:right;
+	width:450;
+	float:right;
+	margin:20px;
+	padding:20px;
+	font: 20px Ariel;
+	-webkit-border-radius:15px;
+}
+
+#tip
+{
+	font:bold 28px Ariel;
+	color:#FF00FF;
+	clear:both;
+}
+
+#mainsection
+{
+	width:auto;
+	height:auto;
+	text-align:center;
+	-webkit-box-pack:center;
+}
+#set
+{
+	margin:20px;
+	padding-right:35%;
+	-webkit-box-pack:center;
+	
+}
+.centerTable { margin:0px auto}
+#table
+{
+	border-collapse:collapse;
+	
+}
+
+td {
+  padding: 0.5rem;
+  text-align: left;
+}
+
+input[type="submit"]{
+	font:40px curlz mt;
+	color:purple;
+	border: 0;
+    background: transparent ; /* Or whatever background color you want to use */
+}
